@@ -1,0 +1,9 @@
+{
+  "name": "tween",
+  "version": "6.0.0",
+  "dependencies": {},
+  "main": "src/Tween.js",
+  "scripts": [
+    "src/Tween.js"
+  ]
+}
